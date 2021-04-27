@@ -1,6 +1,7 @@
 mercury
 venus
 earth
+moon
 mars
 asteroid belt
 jupyter
