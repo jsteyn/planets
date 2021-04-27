@@ -1,12 +1,12 @@
-mercury
-venus
-earth
-moon
-mars
-asteroid belt
-jupyter
-saturn
-uranus
-neptune
-pluto
-makemake
+Mercury
+Venus
+Earth
+Moon
+Mars
+Asteroid belt
+Jupyter
+Saturn
+Hailey's comet
+Uranus
+Neptune
+Pluto
