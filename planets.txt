@@ -2,7 +2,9 @@ mercury
 venus
 earth
 mars
+asteroid belt
 jupyter
 saturn
 uranus
 neptune
+pluto
