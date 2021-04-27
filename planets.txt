@@ -5,6 +5,7 @@ mars
 asteroid belt
 jupyter
 saturn
+Hailey's comet
 uranus
 neptune
 pluto
